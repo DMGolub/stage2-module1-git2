@@ -3,6 +3,8 @@
 2 line 3
 2 line 4 modified
 2 line 5 modified
+2 line 4 updated
+2 line 5 updated
 2 line 6
 2 line 7
 2 line 8
